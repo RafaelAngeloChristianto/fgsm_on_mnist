@@ -1,0 +1,1 @@
+The Fast Gradient Sign Method (FGSM) is a type of adversarial attack used to deceive machine learning models, especially deep neural networks. It works by slightly modifying the input data in a way that causes the model to make incorrect predictions, without the modifications being noticeable to a human observer.
